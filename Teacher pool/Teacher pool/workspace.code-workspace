@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../teachers.pools-main12-main/teachers.pools-main/teachers.pool"
+		},
+		{
+			"path": "../TARMS-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TARMS-main",
+		"git.ignoreLimitWarning": true
+	}
+}
